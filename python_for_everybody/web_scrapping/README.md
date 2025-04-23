@@ -1,6 +1,5 @@
 ##  Task 1: Scraping Numbers from HTML
 
-```markdown
 #  Scraping Numbers from HTML
 
 This Python script retrieves an HTML page from a URL, extracts all numeric values from `<span class="comments">` tags, and calculates their sum.
@@ -62,13 +61,11 @@ Sum 2553
 ##  Related Learning
 
 This exercise is adapted from the [Python for Everybody](https://www.py4e.com) course by Dr. Chuck.
-```
 
----
+
 
 ##  Task 2: Following Links in HTML
 
-```markdown
 #  Following Links in HTML
 
 This Python script repeatedly navigates through a series of hyperlinks found in HTML anchor tags, following the link at a specific position for a specified number of times, and prints the final name encountered.
